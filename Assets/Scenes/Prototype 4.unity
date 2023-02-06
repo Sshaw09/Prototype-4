@@ -217,7 +217,7 @@ GameObject:
   - component: {fileID: 628998088}
   - component: {fileID: 628998087}
   m_Layer: 0
-  m_Name: Focus Point
+  m_Name: Focal Point
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -504,6 +504,7 @@ GameObject:
   - component: {fileID: 1634154264}
   - component: {fileID: 1634154263}
   - component: {fileID: 1634154262}
+  - component: {fileID: 1634154267}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -599,6 +600,19 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1634154267
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1634154261}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ef6ab91be3a44a068419a4c68f7987d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 5
 --- !u!1001 &7305732181041295649
 PrefabInstance:
   m_ObjectHideFlags: 0
