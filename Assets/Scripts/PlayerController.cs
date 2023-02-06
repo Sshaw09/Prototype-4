@@ -6,10 +6,8 @@ public class PlayerController : MonoBehaviour
 {
     //Float variable for speed
     public float speed = 5;
-
     //Variable to call the Rigidbody
     private Rigidbody playerRb;
-
     //Variable to call the focalPoint that the main camera is attached to
     private GameObject focalPoint;
     // Start is called before the first frame update
