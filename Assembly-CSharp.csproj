@@ -64,11 +64,16 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\1MAIN\Scripts\Enemy.cs" />
-    <Compile Include="Assets\1MAIN\Scripts\PlayerController.cs" />
-    <Compile Include="Assets\1MAIN\Scripts\RotateCamera.cs" />
-    <Compile Include="Assets\1MAIN\Scripts\SpawnManager.cs" />
-    <None Include="Assets\1MAIN\Course Library\_Source_Files\_LICENSE.txt" />
+    <Compile Include="Assets\Challenge 4\Scripts\EnemyX.cs" />
+    <Compile Include="Assets\Challenge 4\Scripts\PlayerControllerX.cs" />
+    <Compile Include="Assets\Challenge 4\Scripts\RotateCameraX.cs" />
+    <Compile Include="Assets\Challenge 4\Scripts\SpawnManagerX.cs" />
+    <Compile Include="Assets\OG Game\Scripts\Enemy.cs" />
+    <Compile Include="Assets\OG Game\Scripts\PlayerController.cs" />
+    <Compile Include="Assets\OG Game\Scripts\RotateCamera.cs" />
+    <Compile Include="Assets\OG Game\Scripts\SpawnManager.cs" />
+    <None Include="Assets\OG Game\Course Library\_Source_Files\_LICENSE.txt" />
+    <None Include="Assets\Challenge 4\Course Library\_Source_Files\Materials\UnlitVertexColour_Alpha.shader" />
     <Reference Include="UnityEngine.Purchasing">
       <HintPath>/Users/stephenshaw/Desktop/Create with Code/Prototype-4/Library/ScriptAssemblies/UnityEngine.Purchasing.dll</HintPath>
     </Reference>

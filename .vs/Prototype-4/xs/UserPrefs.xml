@@ -1,20 +1,16 @@
 ﻿<Properties StartupConfiguration="{763DCF33-0D33-3684-09A6-2B8B6168F8C1}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SpawnManager.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/OG Game/Scripts/SpawnManager.cs">
     <Files>
       <File FileName="Assets/Scripts/RotateCamera.cs" Line="20" Column="60" />
       <File FileName="Assets/Scripts/PlayerController.cs" Line="63" Column="54" />
-      <File FileName="Assets/Scripts/Enemy.cs" />
-      <File FileName="Assets/Scripts/SpawnManager.cs" Line="9" Column="48" />
+      <File FileName="Assets/Scripts/Enemy.cs" Line="20" Column="44" />
+      <File FileName="Assets/Scripts/SpawnManager.cs" Line="64" Column="52" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Prototype-4" expanded="True">
-            <Node name="Assets" expanded="True">
-              <Node name="Scripts" expanded="True">
-                <Node name="SpawnManager.cs" selected="True" />
-              </Node>
-            </Node>
+            <Node name="Assets" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -22,7 +18,6 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="369b68fc-2058-472d-aaf0-d51555cb0b65" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
