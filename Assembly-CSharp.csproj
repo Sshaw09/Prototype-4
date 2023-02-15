@@ -64,11 +64,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\Enemy.cs" />
-    <Compile Include="Assets\Scripts\PlayerController.cs" />
-    <Compile Include="Assets\Scripts\RotateCamera.cs" />
-    <Compile Include="Assets\Scripts\SpawnManager.cs" />
-    <None Include="Assets\Course Library\_Source_Files\_LICENSE.txt" />
+    <Compile Include="Assets\1MAIN\Scripts\Enemy.cs" />
+    <Compile Include="Assets\1MAIN\Scripts\PlayerController.cs" />
+    <Compile Include="Assets\1MAIN\Scripts\RotateCamera.cs" />
+    <Compile Include="Assets\1MAIN\Scripts\SpawnManager.cs" />
+    <None Include="Assets\1MAIN\Course Library\_Source_Files\_LICENSE.txt" />
     <Reference Include="UnityEngine.Purchasing">
       <HintPath>/Users/stephenshaw/Desktop/Create with Code/Prototype-4/Library/ScriptAssemblies/UnityEngine.Purchasing.dll</HintPath>
     </Reference>
